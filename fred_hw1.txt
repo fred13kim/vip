@@ -1,0 +1,20 @@
+VIP HW1
+Fred Kim
+1.
+    a. What are the main advantages of the stanley controller over some other path following algorithm such as pure pursuit. Have we considered designing our own path following algorithm (probably not necessary as I think building ontop of pre-existing algorithms is useful as well, but I think getting a fundamental understanding of how path following algorithms work would be beneficial for controls)?
+    b. How can we make DBW more "controls friendly" or vice versa? Can we develop some sort of framework for teams to depend on instead of having to ask individual people?
+2.
+    a. Team1: DBW
+    b. Team2: Controls
+3.
+    a. https://www.reddit.com/r/rust/comments/15fqzp5/honestly_how_is_rust_compared_to_modern_c_for/
+        i. Qualification: Although I do want to learn Rust, I also don't know C++. Confident I can quickly catch onto either though.
+    b. https://www.reddit.com/r/rust/comments/10wy4yw/rust_gui_framework/
+        i. Qualification: Additional resource to gui development in Rust
+    c. https://natureofcode.com/book/chapter-6-autonomous-agents/#chapter06_section8
+        i. Qualification: Great resource for introductory concepts on how path following algorithms fundamentally work (I read this paper when designing my own path following algorithm during highschool).
+
+4.
+    a. GUI for various parts of the car (maybe develop some sort of framework to input software onto display of car) (either Rust or C++)
+    b. Testbench platform for DBW Node.
+    c. DBW Node Docs (how to use, how the firmware is organized)

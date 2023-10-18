@@ -1,0 +1,26 @@
+October 11:
+    START VIP !!
+    Model View Controller:
+    - Model:
+    - View:
+    - Controller:
+    QT Framework:
+October 18:
+    https://www.youtube.com/watch?v=LyoOkle-n50
+    https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
+    View:
+        Buttons, text boxes, anything that interacts with user.
+    Controller:
+        Logic
+    Model:
+        Datastructure/Database
+
+    Made a crud implementation of MVC (very simple)
+    
+    What are namespaces?
+
+    QT Framework:
+    QT BOOK
+    https://www.qt.io/product/qt6/qml-book/ch17-qtcpp-qtcpp
+    INSTALL QT SDK

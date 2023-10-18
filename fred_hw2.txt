@@ -1,0 +1,33 @@
+VIP HW2
+Fred Kim
+1.
+                            Project Name
+Criteria        Weight      GUI         Testbench Platform      DBW NODE DOCS
+Practicality    10          3           7                       7
+Feasibility     7           3           3                       7
+Interest        8           7           3                       3
+Learning        10          7           7                       3
+                            177         185                     173
+
+2.
+Skills:
+    - Operating System Concepts
+    - RTOS
+    - Unit Testing Framework
+    - EEHW Concepts
+    - Bootup sequence
+
+3.
+Tools:
+    - C/C++
+    - ESP-IDF DOCS
+    - PCB Board Interfacing
+
+4.
+I know C, only have partial knowledge in how to read ESP-IDF Docs and a bit of O.S. concepts (taking O.S. class right now). 
+
+5.
+I do not have any knowledge on how the bootup sequence works with the PCB board. Not familiar in how unit tests work or how testing a board should be done. Any protocols?
+
+6.
+OS class with Hak definitely will help. ESP-IDF docs. Online resources on embedded systems & microcontroller boot process: https://electronics.stackexchange.com/questions/224156/how-does-a-microcontroller-boot-and-startup-step-by-step
